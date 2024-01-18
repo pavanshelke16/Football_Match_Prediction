@@ -1,6 +1,6 @@
 # Football Match Predictor
 
-This project is a football match predictor using logistic regression. It predicts the outcome of a football match (home team win, draw, or away team win).
+This project is a football match predictor using Logistic Regression. It predicts the outcome of a football match (home team win, draw, or away team win).
 
 [Visit Football Match Predictor](https://pavanshelke-football-match-prediction.onrender.com)
 

@@ -29,6 +29,7 @@ I have performed Logistic Regression and Random Rorest Classification on the dat
 - `lr.pkl`: Binary file of the trained logistic regression model.
 - `predict_code.ipynb`: Jupyter Notebook for model training and exploration.
 - `ui.py`: Streamlit UI file for user interaction.
+- `requirements.txt`: File containing project dependencies.
 
 ## Dependencies
 

@@ -11,7 +11,7 @@ The dataset used in this project was sourced from [Football-Data.co.uk](http://f
 
 ## Model Performance
 
-I have performed Logistic Regression and Random Rorest Classification on the dataset with Logistic Regression giving the highest accuracy of 60.00%
+I have performed Logistic Regression and Random Forest Classification on the dataset with Logistic Regression giving the highest accuracy of 60.00%
 ## Getting Started
 
 1. Install dependencies: `pip install -r requirements.txt`
